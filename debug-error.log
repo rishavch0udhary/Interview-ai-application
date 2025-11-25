@@ -1,0 +1,154 @@
+{
+  "code": 9,
+  "details": "The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/prepwise-6ecb3/firestore/indexes?create_composite=ClFwcm9qZWN0cy9wcmVwd2lzZS02ZWNiMy9kYXRhYmFzZXMvKGRlZmF1bHQpL2NvbGxlY3Rpb25Hcm91cHMvaW50ZXJ2aWV3cy9pbmRleGVzL18QARoNCglmaW5hbGl6ZWQQARoNCgljcmVhdGVkQXQQAhoMCghfX25hbWVfXxAC",
+  "metadata": {
+    "x-debug-tracking-id": [
+      "9066981699679323059;o=1"
+    ]
+  }
+}
+Error: 9 FAILED_PRECONDITION: The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/prepwise-6ecb3/firestore/indexes?create_composite=ClFwcm9qZWN0cy9wcmVwd2lzZS02ZWNiMy9kYXRhYmFzZXMvKGRlZmF1bHQpL2NvbGxlY3Rpb25Hcm91cHMvaW50ZXJ2aWV3cy9pbmRleGVzL18QARoNCglmaW5hbGl6ZWQQARoNCgljcmVhdGVkQXQQAhoMCghfX25hbWVfXxACLatest Interviews Error:
+{
+  "code": 9,
+  "details": "The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/prepwise-6ecb3/firestore/indexes?create_composite=ClFwcm9qZWN0cy9wcmVwd2lzZS02ZWNiMy9kYXRhYmFzZXMvKGRlZmF1bHQpL2NvbGxlY3Rpb25Hcm91cHMvaW50ZXJ2aWV3cy9pbmRleGVzL18QARoNCglmaW5hbGl6ZWQQARoNCgljcmVhdGVkQXQQAhoMCghfX25hbWVfXxAC",
+  "metadata": {
+    "x-debug-tracking-id": [
+      "16927873917437462650;o=1"
+    ]
+  }
+}
+Error: 9 FAILED_PRECONDITION: The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/prepwise-6ecb3/firestore/indexes?create_composite=ClFwcm9qZWN0cy9wcmVwd2lzZS02ZWNiMy9kYXRhYmFzZXMvKGRlZmF1bHQpL2NvbGxlY3Rpb25Hcm91cHMvaW50ZXJ2aWV3cy9pbmRleGVzL18QARoNCglmaW5hbGl6ZWQQARoNCgljcmVhdGVkQXQQAhoMCghfX25hbWVfXxAC
+
+User Interviews Error:
+{
+  "code": 9,
+  "details": "The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/prepwise-6ecb3/firestore/indexes?create_composite=ClFwcm9qZWN0cy9wcmVwd2lzZS02ZWNiMy9kYXRhYmFzZXMvKGRlZmF1bHQpL2NvbGxlY3Rpb25Hcm91cHMvaW50ZXJ2aWV3cy9pbmRleGVzL18QARoKCgZ1c2VySWQQARoNCgljcmVhdGVkQXQQAhoMCghfX25hbWVfXxAC",
+  "metadata": {
+    "x-debug-tracking-id": [
+      "10372008271974242020;o=1"
+    ]
+  }
+}
+Error: 9 FAILED_PRECONDITION: The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/prepwise-6ecb3/firestore/indexes?create_composite=ClFwcm9qZWN0cy9wcmVwd2lzZS02ZWNiMy9kYXRhYmFzZXMvKGRlZmF1bHQpL2NvbGxlY3Rpb25Hcm91cHMvaW50ZXJ2aWV3cy9pbmRleGVzL18QARoKCgZ1c2VySWQQARoNCgljcmVhdGVkQXQQAhoMCghfX25hbWVfXxAC
+
+ERROR: GOOGLE_GENERATIVE_AI_API_KEY is missing!
+Latest Interviews Error:
+{
+  "code": 9,
+  "details": "The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/prepwise-6ecb3/firestore/indexes?create_composite=ClFwcm9qZWN0cy9wcmVwd2lzZS02ZWNiMy9kYXRhYmFzZXMvKGRlZmF1bHQpL2NvbGxlY3Rpb25Hcm91cHMvaW50ZXJ2aWV3cy9pbmRleGVzL18QARoNCglmaW5hbGl6ZWQQARoNCgljcmVhdGVkQXQQAhoMCghfX25hbWVfXxAC",
+  "metadata": {
+    "x-debug-tracking-id": [
+      "7290619883757876220;o=1"
+    ]
+  }
+}
+Error: 9 FAILED_PRECONDITION: The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/prepwise-6ecb3/firestore/indexes?create_composite=ClFwcm9qZWN0cy9wcmVwd2lzZS02ZWNiMy9kYXRhYmFzZXMvKGRlZmF1bHQpL2NvbGxlY3Rpb25Hcm91cHMvaW50ZXJ2aWV3cy9pbmRleGVzL18QARoNCglmaW5hbGl6ZWQQARoNCgljcmVhdGVkQXQQAhoMCghfX25hbWVfXxAC
+
+User Interviews Error:
+{
+  "code": 9,
+  "details": "The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/prepwise-6ecb3/firestore/indexes?create_composite=ClFwcm9qZWN0cy9wcmVwd2lzZS02ZWNiMy9kYXRhYmFzZXMvKGRlZmF1bHQpL2NvbGxlY3Rpb25Hcm91cHMvaW50ZXJ2aWV3cy9pbmRleGVzL18QARoKCgZ1c2VySWQQARoNCgljcmVhdGVkQXQQAhoMCghfX25hbWVfXxAC",
+  "metadata": {
+    "x-debug-tracking-id": [
+      "16608469997175191766;o=1"
+    ]
+  }
+}
+Error: 9 FAILED_PRECONDITION: The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/prepwise-6ecb3/firestore/indexes?create_composite=ClFwcm9qZWN0cy9wcmVwd2lzZS02ZWNiMy9kYXRhYmFzZXMvKGRlZmF1bHQpL2NvbGxlY3Rpb25Hcm91cHMvaW50ZXJ2aWV3cy9pbmRleGVzL18QARoKCgZ1c2VySWQQARoNCgljcmVhdGVkQXQQAhoMCghfX25hbWVfXxAC
+
+Latest Interviews Error:
+{
+  "code": 9,
+  "details": "The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/prepwise-6ecb3/firestore/indexes?create_composite=ClFwcm9qZWN0cy9wcmVwd2lzZS02ZWNiMy9kYXRhYmFzZXMvKGRlZmF1bHQpL2NvbGxlY3Rpb25Hcm91cHMvaW50ZXJ2aWV3cy9pbmRleGVzL18QARoNCglmaW5hbGl6ZWQQARoNCgljcmVhdGVkQXQQAhoMCghfX25hbWVfXxAC",
+  "metadata": {
+    "x-debug-tracking-id": [
+      "10314018830248055427;o=1"
+    ]
+  }
+}
+Error: 9 FAILED_PRECONDITION: The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/prepwise-6ecb3/firestore/indexes?create_composite=ClFwcm9qZWN0cy9wcmVwd2lzZS02ZWNiMy9kYXRhYmFzZXMvKGRlZmF1bHQpL2NvbGxlY3Rpb25Hcm91cHMvaW50ZXJ2aWV3cy9pbmRleGVzL18QARoNCglmaW5hbGl6ZWQQARoNCgljcmVhdGVkQXQQAhoMCghfX25hbWVfXxAC
+
+User Interviews Error:
+{
+  "code": 9,
+  "details": "The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/prepwise-6ecb3/firestore/indexes?create_composite=ClFwcm9qZWN0cy9wcmVwd2lzZS02ZWNiMy9kYXRhYmFzZXMvKGRlZmF1bHQpL2NvbGxlY3Rpb25Hcm91cHMvaW50ZXJ2aWV3cy9pbmRleGVzL18QARoKCgZ1c2VySWQQARoNCgljcmVhdGVkQXQQAhoMCghfX25hbWVfXxAC",
+  "metadata": {
+    "x-debug-tracking-id": [
+      "4894872663176500499;o=1"
+    ]
+  }
+}
+Error: 9 FAILED_PRECONDITION: The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/prepwise-6ecb3/firestore/indexes?create_composite=ClFwcm9qZWN0cy9wcmVwd2lzZS02ZWNiMy9kYXRhYmFzZXMvKGRlZmF1bHQpL2NvbGxlY3Rpb25Hcm91cHMvaW50ZXJ2aWV3cy9pbmRleGVzL18QARoKCgZ1c2VySWQQARoNCgljcmVhdGVkQXQQAhoMCghfX25hbWVfXxAC
+
+Latest Interviews Error:
+{
+  "code": 9,
+  "details": "The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/prepwise-6ecb3/firestore/indexes?create_composite=ClFwcm9qZWN0cy9wcmVwd2lzZS02ZWNiMy9kYXRhYmFzZXMvKGRlZmF1bHQpL2NvbGxlY3Rpb25Hcm91cHMvaW50ZXJ2aWV3cy9pbmRleGVzL18QARoNCglmaW5hbGl6ZWQQARoNCgljcmVhdGVkQXQQAhoMCghfX25hbWVfXxAC",
+  "metadata": {
+    "x-debug-tracking-id": [
+      "15075018630801720135;o=1"
+    ]
+  }
+}
+Error: 9 FAILED_PRECONDITION: The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/prepwise-6ecb3/firestore/indexes?create_composite=ClFwcm9qZWN0cy9wcmVwd2lzZS02ZWNiMy9kYXRhYmFzZXMvKGRlZmF1bHQpL2NvbGxlY3Rpb25Hcm91cHMvaW50ZXJ2aWV3cy9pbmRleGVzL18QARoNCglmaW5hbGl6ZWQQARoNCgljcmVhdGVkQXQQAhoMCghfX25hbWVfXxAC
+
+User Interviews Error:
+{
+  "code": 9,
+  "details": "The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/prepwise-6ecb3/firestore/indexes?create_composite=ClFwcm9qZWN0cy9wcmVwd2lzZS02ZWNiMy9kYXRhYmFzZXMvKGRlZmF1bHQpL2NvbGxlY3Rpb25Hcm91cHMvaW50ZXJ2aWV3cy9pbmRleGVzL18QARoKCgZ1c2VySWQQARoNCgljcmVhdGVkQXQQAhoMCghfX25hbWVfXxAC",
+  "metadata": {
+    "x-debug-tracking-id": [
+      "7666136200494502383;o=1"
+    ]
+  }
+}
+Error: 9 FAILED_PRECONDITION: The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/prepwise-6ecb3/firestore/indexes?create_composite=ClFwcm9qZWN0cy9wcmVwd2lzZS02ZWNiMy9kYXRhYmFzZXMvKGRlZmF1bHQpL2NvbGxlY3Rpb25Hcm91cHMvaW50ZXJ2aWV3cy9pbmRleGVzL18QARoKCgZ1c2VySWQQARoNCgljcmVhdGVkQXQQAhoMCghfX25hbWVfXxAC
+
+Latest Interviews Error:
+{
+  "code": 9,
+  "details": "The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/prepwise-6ecb3/firestore/indexes?create_composite=ClFwcm9qZWN0cy9wcmVwd2lzZS02ZWNiMy9kYXRhYmFzZXMvKGRlZmF1bHQpL2NvbGxlY3Rpb25Hcm91cHMvaW50ZXJ2aWV3cy9pbmRleGVzL18QARoNCglmaW5hbGl6ZWQQARoNCgljcmVhdGVkQXQQAhoMCghfX25hbWVfXxAC",
+  "metadata": {
+    "x-debug-tracking-id": [
+      "5926810570500826854;o=1"
+    ]
+  }
+}
+Error: 9 FAILED_PRECONDITION: The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/prepwise-6ecb3/firestore/indexes?create_composite=ClFwcm9qZWN0cy9wcmVwd2lzZS02ZWNiMy9kYXRhYmFzZXMvKGRlZmF1bHQpL2NvbGxlY3Rpb25Hcm91cHMvaW50ZXJ2aWV3cy9pbmRleGVzL18QARoNCglmaW5hbGl6ZWQQARoNCgljcmVhdGVkQXQQAhoMCghfX25hbWVfXxAC
+
+User Interviews Error:
+{
+  "code": 9,
+  "details": "The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/prepwise-6ecb3/firestore/indexes?create_composite=ClFwcm9qZWN0cy9wcmVwd2lzZS02ZWNiMy9kYXRhYmFzZXMvKGRlZmF1bHQpL2NvbGxlY3Rpb25Hcm91cHMvaW50ZXJ2aWV3cy9pbmRleGVzL18QARoKCgZ1c2VySWQQARoNCgljcmVhdGVkQXQQAhoMCghfX25hbWVfXxAC",
+  "metadata": {
+    "x-debug-tracking-id": [
+      "470614731923441669;o=1"
+    ]
+  }
+}
+Error: 9 FAILED_PRECONDITION: The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/prepwise-6ecb3/firestore/indexes?create_composite=ClFwcm9qZWN0cy9wcmVwd2lzZS02ZWNiMy9kYXRhYmFzZXMvKGRlZmF1bHQpL2NvbGxlY3Rpb25Hcm91cHMvaW50ZXJ2aWV3cy9pbmRleGVzL18QARoKCgZ1c2VySWQQARoNCgljcmVhdGVkQXQQAhoMCghfX25hbWVfXxAC
+
+User Interviews Error:
+{
+  "code": 9,
+  "details": "The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/prepwise-6ecb3/firestore/indexes?create_composite=ClFwcm9qZWN0cy9wcmVwd2lzZS02ZWNiMy9kYXRhYmFzZXMvKGRlZmF1bHQpL2NvbGxlY3Rpb25Hcm91cHMvaW50ZXJ2aWV3cy9pbmRleGVzL18QARoKCgZ1c2VySWQQARoNCgljcmVhdGVkQXQQAhoMCghfX25hbWVfXxAC",
+  "metadata": {
+    "x-debug-tracking-id": [
+      "10193055918288416785;o=1"
+    ]
+  }
+}
+Error: 9 FAILED_PRECONDITION: The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/prepwise-6ecb3/firestore/indexes?create_composite=ClFwcm9qZWN0cy9wcmVwd2lzZS02ZWNiMy9kYXRhYmFzZXMvKGRlZmF1bHQpL2NvbGxlY3Rpb25Hcm91cHMvaW50ZXJ2aWV3cy9pbmRleGVzL18QARoKCgZ1c2VySWQQARoNCgljcmVhdGVkQXQQAhoMCghfX25hbWVfXxAC
+
+User Interviews Error:
+{
+  "code": 9,
+  "details": "The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/prepwise-6ecb3/firestore/indexes?create_composite=Clxwcm9qZWN0cy9wcmVwd2lzZS02ZWNiMy9kYXRhYmFzZXMvKGRlZmF1bHQpL2NvbGxlY3Rpb25Hcm91cHMvaW50ZXJ2aWV3cy9pbmRleGVzL0NJQ0FnT2pYaDRFShABGgoKBnVzZXJJZBABGg0KCWNyZWF0ZWRBdBACGgwKCF9fbmFtZV9fEAI",
+  "metadata": {
+    "x-debug-tracking-id": [
+      "17489661575095434755;o=1"
+    ]
+  }
+}
+Error: 9 FAILED_PRECONDITION: The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/prepwise-6ecb3/firestore/indexes?create_composite=Clxwcm9qZWN0cy9wcmVwd2lzZS02ZWNiMy9kYXRhYmFzZXMvKGRlZmF1bHQpL2NvbGxlY3Rpb25Hcm91cHMvaW50ZXJ2aWV3cy9pbmRleGVzL0NJQ0FnT2pYaDRFShABGgoKBnVzZXJJZBABGg0KCWNyZWF0ZWRBdBACGgwKCF9fbmFtZV9fEAI
+
